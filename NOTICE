@@ -1,0 +1,25 @@
+   =============================================================================
+   ==  NOTICE file corresponding to section 4(d) of the Apache License,       ==
+   ==  Version 2.0, in this case for the oxygenxml.xlsx.import.new distribution.  ==
+   =============================================================================
+----------------------------------------------------------
+This product includes software developed by The Apache Software Foundation (http://www.apache.org/).
+
+poi-ooxml-3.17.jar
+Site: http://poi.apache.org/
+License: Apache License 2.0 ( http://www.apache.org/licenses/LICENSE-2.0)
+
+poi-ooxml-schemas-3.17.jar
+Site: http://poi.apache.org/
+License: Apache License 2.0 ( http://www.apache.org/licenses/LICENSE-2.0)
+
+xmlbeans-2.6.0
+Site: http://xmlbeans.apache.org 
+License: Apache License 2.0 ( http://www.apache.org/licenses/LICENSE-2.0)
+
+----------------------------------------------------------
+This product includes software from the following projects:
+
+curvesapi-1.04.jar 
+Site: https://github.com/virtuald/curvesapi/
+License: BSD 3-clause (https://github.com/virtuald/curvesapi/blob/master/license.txt)
