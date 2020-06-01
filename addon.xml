@@ -3,7 +3,7 @@
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xsi:schemaLocation="http://www.oxygenxml.com/ns/extension http://www.oxygenxml.com/ns/extension/extensions.xsd">
     <xt:extension id="oxygenxml.xlsx.import">
-        <xt:location href="https://github.com/oxygenxml/oxygenxml.xlsx.import.new/archive/master.zip"/>
+        <xt:location href="https://github.com/oxygenxml/oxygenxml.xlsx.import-poi.3.17/archive/master.zip"/>
         <xt:version>1.0.0</xt:version>
         <xt:oxy_version>23.0+</xt:oxy_version>
         <xt:type>plugin</xt:type>
@@ -12,17 +12,18 @@
         <xt:description xmlns="http://www.w3.org/1999/xhtml">
             <html>
                 <head>
-                    <title>Excel XLSX libraries</title>
+                    <title>Excel XLSX libraries for version 23.0 or newer.</title>
                 </head>
                 <body>
                     <p>This add-on contributes additional libraries that makes it possible to import spreadsheet data from Microsoft Excel 2007 and newer.</p>
-                    <p>For more details, see: <a href="https://github.com/oxygenxml/oxygenxml.xlsx.import.new">
-                        https://github.com/oxygenxml/oxygenxml.xlsx.import.new</a></p>
+                    <p>The add-on is compatible with Oxygen XML Editor (or XML Author) version 23.0 or newer.</p>
+                    <p>For more details, see: <a href="https://github.com/oxygenxml/oxygenxml.xlsx.import-poi.3.17">
+                        https://github.com/oxygenxml/oxygenxml.xlsx.import-poi.3.17</a></p>
                 </body>
             </html>
         </xt:description>
         <xt:license>
-            Copyright 2018 Syncro Soft SRL
+            Copyright 2020 Syncro Soft SRL
             
             Licensed under the Apache License, Version 2.0 (the "License");
             you may not use this file except in compliance with the License.
@@ -39,21 +40,21 @@
             The Plugin may include certain of the following third party software components.
             The copyright notices, disclaimers and license terms applicable to such third party software components are listed below:
             
-            dom4j-1.6.1.jar
-            Site: https://dom4j.github.io/
-            License: Apache License 2.0 ( http://www.apache.org/licenses/LICENSE-2.0)
-            
-            poi-ooxml-3.10-FINAL-20140208.jar
+            poi-ooxml-3.17.jar
             Site: http://poi.apache.org/
             License: Apache License 2.0 ( http://www.apache.org/licenses/LICENSE-2.0)
             
-            poi-ooxml-schemas-3.10-FINAL-20140208.jar
+            poi-ooxml-schemas-3.17.jar
             Site: http://poi.apache.org/
             License: Apache License 2.0 ( http://www.apache.org/licenses/LICENSE-2.0)
             
-            xmlbeans-2.3.0.jar
-            Site: http://xmlbeans.apache.org
+            xmlbeans-2.6.0.jar
+            Site: http://xmlbeans.apache.org 
             License: Apache License 2.0 ( http://www.apache.org/licenses/LICENSE-2.0)
+            
+            curvesapi-1.04.jar 
+            Site: https://github.com/virtuald/curvesapi/
+            License: BSD 3-clause (https://github.com/virtuald/curvesapi/blob/master/license.txt)
         </xt:license>
     </xt:extension>
 </xt:extensions>

@@ -1,6 +1,6 @@
    =============================================================================
    ==  NOTICE file corresponding to section 4(d) of the Apache License,       ==
-   ==  Version 2.0, in this case for the oxygenxml.xlsx.import.new distribution.  ==
+   ==  Version 2.0, in this case for the oxygenxml.xlsx.import-poi.3.17 distribution.  ==
    =============================================================================
 ----------------------------------------------------------
 This product includes software developed by The Apache Software Foundation (http://www.apache.org/).
@@ -13,7 +13,7 @@ poi-ooxml-schemas-3.17.jar
 Site: http://poi.apache.org/
 License: Apache License 2.0 ( http://www.apache.org/licenses/LICENSE-2.0)
 
-xmlbeans-2.6.0
+xmlbeans-2.6.0.jar
 Site: http://xmlbeans.apache.org 
 License: Apache License 2.0 ( http://www.apache.org/licenses/LICENSE-2.0)
 

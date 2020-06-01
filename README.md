@@ -1,6 +1,10 @@
 # Excel XLSX Libraries Add-on
 By Default, Oxygen XML Editor does not come bundled with libraries that would enable you to import XML content from newer versions of Excel. This add-on contributes the libraries necessary to provide this support.
 
+## Compatibility
+
+The add-on is compatible with Oxygen XML Editor (or XML Author) version 23.0 or newer. 
+
 ## Installation
 
 1. Go to **Help->Install new add-ons** to open an add-on selection dialog box.
@@ -15,4 +19,4 @@ Copyright and License
 ---------------------
 Copyright 2020 Syncro Soft SRL.
 
-This project is licensed under [Apache License 2.0](https://github.com/oxygenxml/oxygenxml.xlsx.import.new/blob/master/LICENSE)
+This project is licensed under [Apache License 2.0](https://github.com/oxygenxml/oxygenxml.xlsx.import-poi.3.17/blob/master/LICENSE)
