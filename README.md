@@ -3,7 +3,7 @@ By Default, Oxygen XML Editor does not come bundled with libraries that would en
 
 ## Compatibility
 
-The add-on is compatible with Oxygen XML Editor (or XML Author) version 23.0 or newer. 
+The add-on is compatible with Oxygen XML Editor/Author/Developer version 23.0 or newer. 
 
 ## Installation
 
