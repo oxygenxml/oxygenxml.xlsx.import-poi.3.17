@@ -1,6 +1,6 @@
 <!DOCTYPE plugin PUBLIC "-//Oxygen Plugin" "../plugin.dtd">
 <plugin
- id="oxygenxml.xlsx.import.v23"
+ id="oxygenxml.xlsx.import.poi.3.17"
  name="Contribute libraries to Oxygen which make it possible to import Excel XLSX libraries"
  description="Contribute libraries to Oxygen which make it possible to import Excel 2007 and newer XLSX libraries"
  version="1.0"
