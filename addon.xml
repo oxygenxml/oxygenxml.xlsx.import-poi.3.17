@@ -16,7 +16,7 @@
                 </head>
                 <body>
                     <p>This add-on contributes additional libraries that makes it possible to import spreadsheet data from Microsoft Excel 2007 and newer.</p>
-                    <p>The add-on is compatible with version 23.0 or newer.</p>
+                    <p>This add-on is compatible with versions 23 through 23.1 of Oxygen XML Editor/Author/Developer.</p>
                     <p>For more details, see: <a href="https://github.com/oxygenxml/oxygenxml.xlsx.import-poi.3.17">
                         https://github.com/oxygenxml/oxygenxml.xlsx.import-poi.3.17</a></p>
                 </body>
