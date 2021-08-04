@@ -4,6 +4,7 @@ By Default, Oxygen XML Editor does not come bundled with libraries that would en
 ## Compatibility
 
 This add-on is compatible with versions 23 through 23.1 of Oxygen XML Editor/Author/Developer.
+Starting with version 24, Oxygen comes bundled with these libraries.EXM-48332
 
 ## Installation
 
